@@ -1,0 +1,279 @@
+name: James Bornholt
+
+contact:
+  address: |
+    2317 Speedway, Stop D9500, Austin, TX 78712-1757
+  email: bornholt@cs.utexas.edu
+  website: https://www.cs.utexas.edu/~bornholt/
+
+employment:
+  - employer: University of Texas at Austin
+    job: Assistant Professor, Department of Computer Science
+    when: "2021&ndash;"
+    where: Austin, TX, USA
+  
+  - employer: Amazon Web Services
+    job: Visiting Academic
+    when: "2021&ndash;"
+    where: Austin, TX, USA
+
+  - employer: Amazon Web Services
+    job: Senior Applied Scientist, S3
+    when: "2019&ndash;2021"
+    where: Seattle, WA, USA
+
+  - employer: Amazon Web Services
+    job: Research Intern, Automated Reasoning Group
+    when: 2018
+    where: Seattle, WA, USA
+
+  - employer: Microsoft Research
+    job: Software Engineer, Research in Software Engineering (RiSE) group
+    when: 2014
+    where: Canberra, Australia
+
+  - employer: Microsoft Research
+    job: Research Intern, Research in Software Engineering (RiSE) group
+    when: 2012&ndash;2013
+    where: Seattle, WA, USA
+
+  - employer: Microsoft Research
+    job: Research Intern, Research in Software Engineering (RiSE) group
+    when: 2011&ndash;2012
+    where: Seattle, WA, USA
+
+education:
+  - school: University of Washington
+    where: Seattle, WA, USA
+    degree: "Ph.D., Computer Science & Engineering"
+    when: "2014&ndash;2019"
+    notes:
+      - "Advisors: [Emina Torlak](https://homes.cs.washington.edu/~emina/), [Dan Grossman](https://homes.cs.washington.edu/~djg/), [Luis Ceze](https://homes.cs.washington.edu/~luisceze/)"
+      - "Thesis: Optimizing the Automated Programming Stack"
+
+  - school: University of Washington
+    where: Seattle, WA, USA
+    degree: "M.S., Computer Science & Engineering"
+    when: 2016
+
+  - school: Australian National University
+    where: Canberra, Australia
+    degree: "Bachelor of Philosophy (Honours)"
+    when: "2010&ndash;2013"
+    notes:
+      - "Advisor: [Steve Blackburn](http://users.cecs.anu.edu.au/~steveb/)"
+      - "First Class Honours and the University Medal in Computer Science"
+
+teaching:
+  - school: University of Texas at Austin
+    course: CS 395T, Systems Verification and Synthesis
+    when: Spring 2021
+    role: Instructor
+  
+  - school: University of Washington
+    course: CSE 507, Computer Aided Reasoning for Software
+    when: Winter 2017
+    role: Teaching Assistant
+
+  - school: University of Washington
+    course: CSE 507, Computer Aided Reasoning for Software
+    when: Spring 2016
+    role: Teaching Assistant
+
+awards:
+  - what: SOSP Best Paper Award
+    when: 2019
+  - what: OOPSLA Distinguished Artifact Award
+    when: 2018
+  - what: Facebook Ph.D. Fellowship
+    when: "2018&ndash;2020"
+  - what: IEEE Micro Top Picks from the Computer Architecture Conferences, for DNA storage
+    when: 2017
+  - what: OSDI Jay Lepreau Best Paper Award
+    when: 2016
+  - what: IEEE Micro Top Picks from the Computer Architecture Conferences, for Uncertain&lt;T&gt;
+    when: 2015
+  - what: ACM SIGPLAN Research Highlight, for Uncertain&lt;T&gt;
+    when: 2014
+  - what: David Notkin Endowed Graduate Fellowship, University of Washington
+    when: "2014&ndash;2015"
+  - what: Second Place, ACM Student Research Competition Grand Finals (undergraduate)
+    when: 2014
+  - what: First Place, ACM PLDI Student Research Competition (undergraduate)
+    when: 2013
+  - what: ANU University Medal for Computer Science
+    when: 2013
+
+service:
+  pc:
+    - what: Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA)
+      role: External Review Committee
+      when: 2021
+    - what: Operating Systems Design and Implementation (OSDI)
+      role: Program Committee
+      when: 2021
+    - what: Architectural Support for Programming Languages and Operating Systems (ASPLOS)
+      role: Program Committee
+      when: 2021
+    - what: Programming Languages Design and Implementation (PLDI)
+      role: Program Committee
+      when: 2020
+    - what: Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA)
+      role: Review Committee
+      when: 2020
+    - what: Architectural Support for Programming Languages and Operating Systems (ASPLOS)
+      role: External Review Committee
+      when: 2020
+    - what: Principles and Practice of Parallel Programming (PPoPP)
+      role: Brief Announcements Program Committee
+      when: 2020
+    - what: Formal Techniques for Java-Like Programs (FTfJP)
+      role: Program Committee
+      when: 2019
+    - what: Programming Languages Design and Implementation (PLDI)
+      role: External Review Committee
+      when: 2017
+    - what: Computer-Aided Verification (CAV)
+      role: Artifact Evaluation Committee
+      when: 2017
+    - what: Principles of Programming Languages (POPL)
+      role: Artifact Evaluation Committee
+      when: 2016
+    - what: Programming Languages Design and Implementation (PLDI)
+      role: Artifact Evaluation Committee
+      when: 2015
+
+  review:
+    - what: Architectural Support for Programming Languages and Operating Systems (ASPLOS)
+      when: 2018
+    - what: IEEE Transactions on Emerging Topics in Computing
+      when: 2017
+    - what: Computer-Aided Verification (CAV)
+      when: 2015
+    - what: ACM Transactions on Embedded Computing
+      when: 2015
+    - what: Architectural Support for Programming Languages and Operating Systems (ASPLOS)
+      when: 2015
+
+  department:
+    - what: Graduate Admissions Committee, University of Washington
+      when: "2017&ndash;2019"
+    - what: Prospective Student Committee Co-Chair, University of Washington
+      when: 2016
+    - what: Prospective Student Committee, University of Washington
+      when: "2015&ndash;2019"
+
+talks:
+  - title: "Program Synthesis in the Small"
+    events:
+      - date: 2020-10-09
+        where: Purdue University
+        what: Invited Talk
+
+  - title: "Synthesizing System Specifications"
+    events:
+      - date: 2019-09-19
+        where: State of the Art in Program Synthesis
+        what: Invited Talk
+
+  - title: "Optimizing the Automated Programming Stack"
+    events:
+      - date: 2019-07-09
+        where: Australian National University
+        what: Invited Talk
+      - date: 2019-04-25
+        where: University of Toronto
+        what: Invited Seminar
+      - date: 2019-04-18
+        where: Princeton University
+        what: Invited Seminar
+      - date: 2019-04-15
+        where: University of British Columbia
+        what: Invited Seminar
+      - date: 2019-04-08
+        where: École Polytechnique Fédérale de Lausanne
+        what: Invited Seminar
+      - date: 2019-04-02
+        where: University of Massachusetts Amherst
+        what: Invited Seminar
+      - date: 2019-03-27
+        where: Northeastern University
+        what: Invited Seminar
+      - date: 2019-03-18
+        where: Microsoft Research
+        what: Invited Seminar
+      - date: 2019-03-05
+        where: Georgia Institute of Technology
+        what: Invited Seminar
+      - date: 2019-02-28
+        where: University of California, Berkeley
+        what: Invited Seminar
+      - date: 2019-02-21
+        where: Brown University
+        what: Invited Seminar
+      - date: 2019-02-19
+        where: Carnegie Mellon University
+        what: Invited Seminar
+      - date: 2019-02-11
+        where: University of Maryland, College Park
+        what: Invited Seminar
+      - date: 2019-02-07
+        where: University of Texas at Austin
+        what: Invited Seminar
+      - date: 2019-01-29
+        where: Cornell University
+        what: Invited Seminar
+  
+  - title: "Finding Code That Explodes Under Symbolic Evaluation"
+    events:
+      - date: 2019-11-15
+        where: University of California, Santa Cruz
+        what: Guest Lecture
+      - date: 2018-11-07
+        where: OOPSLA
+        what: Conference Talk
+      - date: 2018-06-21
+        where: Galois
+        what: Invited Talk
+
+  - title: "Ocelot: Relational Logic in a Solver-Aided Language"
+    events:
+      - date: 2018-04-30
+        where: Future of Alloy Workshop
+        what: Invited Talk
+  
+  - title: "Synthesizing Memory Models from Framework Sketches and Litmus Tests"
+    events:
+      - date: 2017-06-22
+        where: PLDI
+        what: Conference Talk
+
+  - title: "Programming with Estimates"
+    events:
+      - date: 2016-06-14
+        where: Programming Languages Mentoring Workshop
+        what: Invited Talk
+
+  - title: "Specifying and Checking File-System Crash Consistency Models"
+    events:
+      - date: 2016-07-25
+        where: DARPA BRASS PI Meeting
+        what: Invited Talk
+      - date: 2016-04-04
+        where: ASPLOS
+        what: Conference Talk
+
+  - title: "A DNA-Based Archival Storage System"
+    events:
+      - date: 2016-04-06
+        where: ASPLOS
+        what: Conference Talk
+
+  - title: "Optimizing Synthesis with Metasketches"
+    events:
+      - date: 2016-01-21
+        where: POPL
+        what: Conference Talk
+      - date: 2015-12-02
+        where: "Dagstuhl Seminar 15491 (Approximate and Probabilistic Computing)"
+        what: Invited Talk
