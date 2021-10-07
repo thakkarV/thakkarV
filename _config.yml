@@ -1,12 +1,12 @@
 # Basic stuff
-title: James Bornholt
+title: Vijay THakkar
 description: >
-  I'm an assistant professor in the Department of Computer Science
-  at the University of Texas at Austin, working on programming languages and formal methods.
+  Mechanic @ HPC Garage. Grad student at Georgia Tech.
+  I love big computers that run fast and I cannot lie.
 
 # URLs
-baseurl: "/~bornholt"
-url: "https://www.cs.utexas.edu"
+baseurl: ""
+url: "https://www.thakkarv.dev"
 permalink: /post/:title.html
 
 # Version
