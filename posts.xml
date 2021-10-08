@@ -10,7 +10,7 @@ layout: null
   <link type="text/html" href="{{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}" rel="alternate"/>
   <id>{{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}</id>
   <author>
-    <name>James Bornholt</name>
+    <name>Vijay Thakkar</name>
     <uri>{{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}</uri>
   </author>
   {% for post in site.posts %}
@@ -22,7 +22,7 @@ layout: null
     <id>{{ post.url | absolute_url | uri_escape }}</id>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
-      <name>James Bornholt</name>
+      <name>Vijay Thakkar</name>
       <uri>{{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}</uri>
     </author>
     <content type="html"><![CDATA[{{ post.content }}]]></content>

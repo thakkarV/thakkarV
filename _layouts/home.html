@@ -17,12 +17,12 @@ layout: default
 </div>
 </div>
 
-<h2 class="sec">Publications <p class="header-link">[<a href="http://dblp.uni-trier.de/pers/hd/b/Bornholt:James">DBLP</a>]</p> <p class="header-link">[<a href="https://scholar.google.com/citations?user=nuwXTh4AAAAJ">Google Scholar</a>]</p></h2>
+<h2 class="sec">Publications <p class="header-link">[<a href="https://dblp.org/pid/222/2985.html">DBLP</a>]</p> <p class="header-link">[<a href="https://scholar.google.com/citations?hl=en&user=XTVUpYcAAAAJ">Google Scholar</a>]</p></h2>
 <h3>Conference Papers</h3>
 {% assign papers = site.data.papers | where_exp:"paper","paper.type == 'conference'" %}
 {% include paper-list.html papers=papers %}
 
-<h3>Journal Papers</h3>
+<!-- <h3>Journal Papers</h3>
 {% assign papers = site.data.papers | where_exp:"paper","paper.type == 'journal'" %}
 {% include paper-list.html papers=papers %}
 
@@ -36,7 +36,7 @@ layout: default
 
 <h3>Theses</h3>
 {% assign papers = site.data.papers | where_exp:"paper","paper.type == 'thesis'" %}
-{% include paper-list.html papers=papers %}
+{% include paper-list.html papers=papers %} -->
 
-<h2 class="sec">Teaching</h2>
-Spring 2021: <a href="https://www.cs.utexas.edu/~bornholt/courses/cs395t-21sp/">CS 395T: Systems Verification and Synthesis</a>
+<h2 class="sec">Teaching (Teaching Assistant)</h2>
+Fall 2020: <a href="">CSE 6140: Introduction to High Performance Computing</a>
