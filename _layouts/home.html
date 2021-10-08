@@ -22,21 +22,24 @@ layout: default
 {% assign papers = site.data.papers | where_exp:"paper","paper.type == 'conference'" %}
 {% include paper-list.html papers=papers %}
 
-<!-- <h3>Journal Papers</h3>
+<!--
+<h3>Journal Papers</h3>
 {% assign papers = site.data.papers | where_exp:"paper","paper.type == 'journal'" %}
 {% include paper-list.html papers=papers %}
+-->
 
 <h3>Workshop Papers</h3>
 {% assign papers = site.data.papers | where_exp:"paper","paper.type == 'workshop'" %}
 {% include paper-list.html papers=papers %}
 
+<!--
 <h3>Posters & Talks</h3>
 {% assign papers = site.data.papers | where_exp:"paper","paper.type == 'poster'" %}
 {% include paper-list.html papers=papers %}
 
 <h3>Theses</h3>
 {% assign papers = site.data.papers | where_exp:"paper","paper.type == 'thesis'" %}
-{% include paper-list.html papers=papers %} -->
+{% include paper-list.html papers=papers %}
 
 <h2 class="sec">Teaching (Teaching Assistant)</h2>
 Fall 2020: <a href="https://omscs.gatech.edu/cse-6220-intro-hpc">CSE 6220: Introduction to High Performance Computing</a>

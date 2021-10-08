@@ -1,3 +1,13 @@
+- title: "Scalable all-pairs shortest paths for huge graphs on multi-GPU clusters"
+  authors: "Piyush Sao, Hao Lu, Ramakrishnan Kannan, Vijay Thakkar, Richard Vuduc, and Thomas Potok"
+  type: conference
+  venue: "HPDC 2021"
+  venue_url: "http://www.hpdc.org/2021/"
+  url: "papers/hpdc21-apsp.pdf"
+  links:
+    - text: "Paper (PDF)"
+      url: "papers/hpdc21-apsp.pdf"
+
 - title: "Scalable knowledge graph analytics at 136 petaflop/s"
   authors: "Ramakrishnan Kannan, Piyush Sao, Hao Lu, Drahomira Herrmannova, Vijay Thakkar, Robert Patton, Richard Vuduc, and Thomas Potok"
   type: conference
@@ -8,3 +18,23 @@
   links:
     - text: "Paper (PDF)"
       url: "papers/sc20-apsp.pdf"
+
+- title: "Conditioning deep generative raw audio models for structured automatic music"
+  authors: "Vijay Thakkar, Rachel Manzelli, Ali Siahkamari, and Brian Kulis"
+  type: conference
+  venue: "ISMIR 2018"
+  venue_url: "http://ismir2018.ircam.fr/"
+  url: "papers/ismir18-music.pdf"
+  links:
+    - text: "Paper (PDF)"
+      url: "papers/ismir18-music.pdf"
+
+- title: "An end to end model for automatic music generation: Combining deep raw and symbolic audio networks"
+  authors: "Rachel Manzelli, Vijay Thakkar, Ali Siahkamari, and Brian Kulis"
+  type: workshop
+  venue: "MuME 2018"
+  venue_url: "http://musicalmetacreation.org/"
+  url: "papers/mume18-music.pdf"
+  links:
+    - text: "Paper (PDF)"
+      url: "papers/mume18-music.pdf"
