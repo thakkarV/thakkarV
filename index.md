@@ -2,7 +2,7 @@
 layout: home
 ---
 
-I'm a graduate student in the [Department of Computer Science][cc.gatech]
+I'm a graduate student in the [College of Computing][cc.gatech]
 at [Georgia Institute of Technology][gt], advised by [Dr. Rich Vuduc][vuduc].
 
 I work on high performance computing, focusing primarily on accelerated computing and programming models for heterogeneous architectures.
