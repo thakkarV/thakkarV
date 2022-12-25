@@ -1,3 +1,14 @@
+- title: "Exaflops Biomedical Knowledge Graph Analytics"
+  authors: "Ramakrishnan Kannan and Piyush Sao and Hao Lu and Jakub Kurzak and Gundolf Schenk and Yongmei Shi and Seung-Hwan Lim and Sharat Israni and Vijay Thakkar and Guojing Cong and Robert Patton and Sergio E. Baranzini and Richard Vuduc and Thomas Potok"
+  type: conference
+  venue: "Supercomputing 2022"
+  venue_url: "https://sc22.supercomputing.org/"
+  url: "papers/sc22-exascale.pdf"
+  extra: "<b>ACM Gordon Bell award finalist</b>."
+  links:
+    - text: "Paper (PDF)"
+      url: "papers/sc22-exascale.pdf"
+
 - title: "Scalable all-pairs shortest paths for huge graphs on multi-GPU clusters"
   authors: "Piyush Sao, Hao Lu, Ramakrishnan Kannan, Vijay Thakkar, Richard Vuduc, and Thomas Potok"
   type: conference

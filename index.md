@@ -10,6 +10,8 @@ My research helps HPC developers write speed of light applications and kernels t
 
 My interests mostly lie at the intersection of hardware and software for accelerated computing. I have worked at various hardware shops to this end including [Arm][arm], [Cerebras Systems][cerebras], and [Nvidia][nvidia] on hardware modeling, high performance kernels, and library design. Good folks at Oak Ridge national lab's [OLCF][olcf] remain my long time collaborators on application level projects.
 
+Currently, I work at NVIDIA full time while I finish my PhD. At NVIDIA, I collaborate closely with Cris Cecka from NVR to lead the design of next generation linear algebra libraries, namely, [CUTLASS 3.0][cutlass], a project I have been working on since its inception. I also work on the exposure of next generation tensor core hardware features into the CUDA C++ programming model for peak developer productivity without performance compromises.
+
 [vuduc]: https://vuduc.org/
 [gt]: https://www.gatech.edu/
 [cc.gatech]: https://www.cc.gatech.edu/
@@ -17,3 +19,4 @@ My interests mostly lie at the intersection of hardware and software for acceler
 [cerebras]: https://cerebras.net/
 [nvidia]: https://www.nvidia.com/
 [olcf]: https://www.olcf.ornl.gov/
+[cutlass]: https://github.com/NVIDIA/cutlass/
