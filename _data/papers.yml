@@ -1,5 +1,25 @@
+- title: "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision"
+  authors: Jay Shah, Ganesh Bikshandi, Ying Zhang, <b>Vijay Thakkar</b>, Pradeep Ramani, Tri Dao
+  type: conference
+  venue: "NeurIPS 2024 - Conference on Neural Information Processing Systems)"
+  venue_url: "https://neurips.cc/"
+  url: "https://arxiv.org/abs/2407.08608"
+  links:
+    - text: "Paper (PDF)"
+      url: "https://arxiv.org/pdf/2407.08608"
+
+- title: "fVDB : A Deep-Learning Framework for Sparse, Large Scale, and High Performance Spatial Intelligence"
+  authors: Francis Williams, Jiahui Huang, Jonathan Swartz, Gergely Klar, <b>Vijay Thakkar</b>, Matthew Cong, Xuanchi Ren, Ruilong Li, Clement Fuji-Tsang, Sanja Fidler, Eftychios Sifakis, Ken Museth
+  type: conference
+  venue: SIGGRAPH 2024 - 
+  venue_url: "https://www.siggraph.org/"
+  url: "https://dl.acm.org/doi/abs/10.1145/3658226"
+  links:
+    - text: "Paper (PDF)"
+      url: "https://dl.acm.org/doi/pdf/10.1145/3658226"
+
 - title: "Exaflops Biomedical Knowledge Graph Analytics"
-  authors: "Ramakrishnan Kannan and Piyush Sao and Hao Lu and Jakub Kurzak and Gundolf Schenk and Yongmei Shi and Seung-Hwan Lim and Sharat Israni and Vijay Thakkar and Guojing Cong and Robert Patton and Sergio E. Baranzini and Richard Vuduc and Thomas Potok"
+  authors: "Ramakrishnan Kannan, Piyush Sao, Hao Lu, Jakub Kurzak, Gundolf Schenk, Yongmei Shi, Seung-Hwan Lim, Sharat Israni, <b>Vijay Thakkar</b>, Guojing Cong, Robert Patton, Sergio E. Baranzini, Richard Vuduc, Thomas Potok"
   type: conference
   venue: "Supercomputing 2022"
   venue_url: "https://sc22.supercomputing.org/"
@@ -10,7 +30,7 @@
       url: "papers/sc22-exascale.pdf"
 
 - title: "Scalable all-pairs shortest paths for huge graphs on multi-GPU clusters"
-  authors: "Piyush Sao, Hao Lu, Ramakrishnan Kannan, Vijay Thakkar, Richard Vuduc, and Thomas Potok"
+  authors: "Piyush Sao, Hao Lu, Ramakrishnan Kannan, <b>Vijay Thakkar</b>, Richard Vuduc, Thomas Potok"
   type: conference
   venue: "HPDC 2021"
   venue_url: "http://www.hpdc.org/2021/"
@@ -20,7 +40,7 @@
       url: "papers/hpdc21-apsp.pdf"
 
 - title: "Scalable knowledge graph analytics at 136 petaflop/s"
-  authors: "Ramakrishnan Kannan, Piyush Sao, Hao Lu, Drahomira Herrmannova, Vijay Thakkar, Robert Patton, Richard Vuduc, and Thomas Potok"
+  authors: "Ramakrishnan Kannan, Piyush Sao, Hao Lu, Drahomira Herrmannova, <b>Vijay Thakkar</b>, Robert Patton, Richard Vuduc, Thomas Potok"
   type: conference
   venue: "Supercomputing 2020"
   venue_url: "https://sc20.supercomputing.org/"
@@ -31,7 +51,7 @@
       url: "papers/sc20-apsp.pdf"
 
 - title: "Conditioning deep generative raw audio models for structured automatic music"
-  authors: "Vijay Thakkar, Rachel Manzelli, Ali Siahkamari, and Brian Kulis"
+  authors: "<b>Vijay Thakkar</b>, Rachel Manzelli, Ali Siahkamari, and Brian Kulis"
   type: conference
   venue: "ISMIR 2018"
   venue_url: "http://ismir2018.ircam.fr/"
@@ -41,7 +61,7 @@
       url: "papers/ismir18-music.pdf"
 
 - title: "An end to end model for automatic music generation: Combining deep raw and symbolic audio networks"
-  authors: "Rachel Manzelli, Vijay Thakkar, Ali Siahkamari, and Brian Kulis"
+  authors: "Rachel Manzelli, <b>Vijay Thakkar</b>, Ali Siahkamari, and Brian Kulis"
   type: workshop
   venue: "MuME 2018"
   venue_url: "http://musicalmetacreation.org/"
