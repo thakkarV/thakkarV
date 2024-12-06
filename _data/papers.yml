@@ -1,7 +1,7 @@
 - title: "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision"
   authors: Jay Shah, Ganesh Bikshandi, Ying Zhang, <b>Vijay Thakkar</b>, Pradeep Ramani, Tri Dao
   type: conference
-  venue: "NeurIPS 2024 - Conference on Neural Information Processing Systems)"
+  venue: "NeurIPS 2024"
   venue_url: "https://neurips.cc/"
   url: "https://arxiv.org/abs/2407.08608"
   links:
